@@ -1,0 +1,15 @@
+[DIGITAL TWIN] Technician Ajay assigned to problem 'tv band' at 'ahmednagar' for user 895026585.
+[DIGITAL TWIN] Technician Ajay assigned to problem 'mobile band' at 'ahmednagar' for user 895026585.
+[DIGITAL TWIN] Technician Ajay assigned to problem 'tv' at 'ahmednagar' for user 895026585.
+[DIGITAL TWIN] Technician Ajay assigned to problem 'fan' at 'ahmednagar' for user 895026585.
+[DIGITAL TWIN] Technician Ajay assigned to problem 'eter' at 'ahmednagar' for user 895026585.
+[DIGITAL TWIN] Technician Ravi assigned to problem 'tv' at 'shevgaon' for user 895026585.
+[DIGITAL TWIN] Technician Ajay assigned to problem 'tv band' at 'ahmednagar' for user 895026585.
+[DIGITAL TWIN] Technician Ajay assigned to problem 'tv' at 'ahmednagar' for user 895026585.
+[2025-04-09 06:12:21.632876] 895026585|tv not working|shevgaon|Ravi
+[2025-04-25 00:39:38.680279] 895026585|fyufuyg|jvkj|Ajay
+[2025-04-25 00:40:11.983159] 895026585|dsfds|shevgaon|Ravi
+[2025-04-25 01:57:38.325717] 895026585|tv not working|ahmednagar|Ajay
+[2025-04-25 14:31:23.628212] 6638766852|tv not working|Near mmit colge|Ajay
+[2025-04-25 15:28:01.159049] 6638766852|asdafaem|fdfdfdf|Ajay Patil
+[2025-04-25 17:21:52.554450] 6638766852|fsdfsdvs|sfvfsfsv|Ajay Patil
